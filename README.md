@@ -4,4 +4,5 @@
 <h3>Therefore, the device was created to help reduce the problem of gas leaks and contribute to fires in particular.</h3>
 <h6>btw, this device is still a demo. There are still some parts that we need to improve.</h6>
 <h2>In the future, if this device is really available for sale I believe that it will definitely become a device that will greatly increase the safety of our lives.</h2>
+<h3>How does it function?</h3>
 <img src="Screenshot (137).png" alt="Works">
