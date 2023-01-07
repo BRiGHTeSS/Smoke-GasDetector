@@ -1,4 +1,4 @@
-# ⛽ Smoke & Gas Detector
+# ⛽ Smoke & Gas Detector (Gen1)
 <h2>This project was born out of a gas leak problem.</h2>
 <h6>which can cause harm Such events may not be found or occur easily. But we often see news of fires from gas leaks on a regular basis.</h6>
 <h3>Therefore, the device was created to help reduce the problem of gas leaks and contribute to fires in particular.</h3>
